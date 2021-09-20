@@ -7,6 +7,7 @@
       "weight": 0.2,
       "amount": 20,
       "price": 15,
+      "imgUrl": "https://www.vhv.rs/dpng/d/5-56598_transparent-orange-hd-png-download.png",
       "description": "An orange is a type of citrus fruit. Oranges are a very good source of Vitamin C."
     },
     {
@@ -16,6 +17,7 @@
       "weight": 0.1,
       "amount": 30,
       "price": 10,
+      "imgUrl": "https://www.vhv.rs/dpng/d/168-1689409_crisp-apple-green-fruit-transparent-background-green-apple.png",
       "description": "An apple is a fruit that people often eat."
     },
     {
@@ -25,6 +27,7 @@
       "weight": 4.0,
       "amount": 9,
       "price": 40,
+      "imgUrl": "https://www.vhv.rs/dpng/d/438-4386783_free-png-images-melon-png-transparent-png-download.png",
       "description": "Melons are rounded or elongate, of yellow or green rind, sometimes combined depending on the variety."
     },
     {
@@ -34,6 +37,7 @@
       "weight": 0.1,
       "amount": 30,
       "price": 25,
+      "imgUrl": "https://www.vhv.rs/dpng/d/13-131435_cherries-png-transparent-png.png",
       "description": "The fruit is a fleshy drupe that is generally heart-shaped to nearly globular, about 2 cm (1 inch) in diameter, and varies in colour from yellow through red to nearly black."
     },
     {
@@ -43,6 +47,7 @@
       "weight": 0.2,
       "amount": 7,
       "price": 30,
+      "imgUrl": "https://www.vhv.rs/dpng/d/284-2841600_avocado-monthly-organic-avocados-shipped-monthly-transparent-background.png",
       "description": "Avocado fruits have greenish or yellowish flesh with a buttery consistency and a rich, nutty flavour."
     },
     {
@@ -52,6 +57,7 @@
       "weight": 0.3,
       "amount": 11,
       "price": 25,
+      "imgUrl": "https://www.vhv.rs/dpng/d/13-139791_transparent-background-green-grape-png-png-download.png",
       "description": "Grapes are fleshy, rounded fruits that grow in clusters made up of many fruits of greenish, yellowish or purple skin."
     },
     {
@@ -61,6 +67,7 @@
       "weight": 0.2,
       "amount": 13,
       "price": 30,
+      "imgUrl": "https://www.vhv.rs/dpng/d/455-4554575_peach-png-image-file-transparent-peach-png-png.png",
       "description": "A peach is a very sweet, juicy fruit with an edible peel and a hard pit in the middle."
     },
     {
@@ -70,6 +77,7 @@
       "weight": 0.13,
       "amount": 17,
       "price": 24,
+      "imgUrl": "https://www.vhv.rs/dpng/d/135-1357425_meyer-lemon-persian-lime-lemon-lemon-clip-art.png",
       "description": "The lemon is a round, slightly elongated fruit, it has a strong and resistant skin, with an intense bright yellow colour."
     },
     {
@@ -80,6 +88,7 @@
       "weight": 0.3,
       "amount": 13,
       "price": 32,
+      "imgUrl": "https://www.vhv.rs/dpng/d/2-20237_donkey-kong-banana-bunch-hd-png-download.png",
       "description": "Banana is an elongated usually tapering tropical fruit with soft pulpy flesh enclosed in a soft usually yellow rind a bunch of bananas slipped on a banana peel."
     },
     {
@@ -89,6 +98,7 @@
       "weight": 0.35,
       "amount": 6,
       "price": 45,
+      "imgUrl": "https://www.vhv.rs/dpng/d/11-113274_mango-fruit-hd-png-download.png",
       "description": "Mango is a tropical usually large ovoid or oblong fruit with a firm yellowish-red skin, hard central stone."
     },
     {
@@ -98,6 +108,7 @@
       "weight": 0.05,
       "amount": 124,
       "price": 12,
+      "imgUrl": "https://www.vhv.rs/dpng/d/421-4210169_red-juicy-strawberry-png-image-free-strawberry-transparent.png",
       "description": "Strawberries are soft, sweet, bright red berries."
     },
     {
@@ -107,6 +118,7 @@
       "weight": 0.1,
       "amount": 13,
       "price": 24,
+      "imgUrl": "https://www.vhv.rs/dpng/d/31-311164_fruits-clipart-kiwi-hd-png-download.png",
       "description": "The ellipsoidal kiwi fruit is a true berry and has furry brownish green skin."
     }
   ],
