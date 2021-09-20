@@ -1,6 +1,7 @@
 {
   "goods": [
     {
+      "id": 1,
       "name": "orange",
       "color": "orange",
       "weight": 0.2,
@@ -16,6 +17,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "apple",
       "color": "green",
       "weight": 0.1,
@@ -31,6 +33,7 @@
       ]
     },
     {
+      "id": 3,
       "name": "melon",
       "color": "orange",
       "weight": 4.0,
@@ -46,6 +49,7 @@
       ]
     },
     {
+      "id": 4,
       "name": "cherry",
       "сolor": "red",
       "weight": 0.1,
@@ -61,6 +65,7 @@
       ]
     },
     {
+      "id": 5,
       "name": "avocado",
       "color": "green",
       "weight": 0.2,
@@ -76,6 +81,7 @@
       ]
     },
     {
+      "id": 6,
       "name": "grape",
       "color": "green",
       "weight": 0.3,
@@ -91,6 +97,7 @@
       ]
     },
     {
+      "id": 7,
       "name": "peach",
       "color": "orange",
       "weight": 0.2,
@@ -106,6 +113,7 @@
       ]
     },
     {
+      "id": 8,
       "name": "lemon",
       "color": "yellow",
       "weight": 0.13,
@@ -121,6 +129,8 @@
       ]
     },
     {
+      
+      "id": 9,
       "name": "banana",
       "color": "yellow",
       "weight": 0.3,
@@ -136,6 +146,7 @@
       ]
     },
     {
+      "id": 10,
       "name": "mango", 
       "color": "yellow",
       "weight": 0.35,
@@ -151,6 +162,7 @@
       ]
     },
     {
+      "id": 11,
       "name": "strawberry",
       "color": "red",
       "weight": 0.05,
@@ -166,6 +178,7 @@
       ]
     },
     {
+      "id": 12,
       "name": "kiwi",
       "color": "green",
       "weight": 0.1,
