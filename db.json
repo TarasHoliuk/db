@@ -7,14 +7,7 @@
       "weight": 0.2,
       "amount": 20,
       "price": 15,
-      "description": "An orange is a type of citrus fruit. Oranges are a very good source of Vitamin C.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "An orange is a type of citrus fruit. Oranges are a very good source of Vitamin C."
     },
     {
       "id": 2,
@@ -23,14 +16,7 @@
       "weight": 0.1,
       "amount": 30,
       "price": 10,
-      "description": "An apple is a fruit that people often eat.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "An apple is a fruit that people often eat."
     },
     {
       "id": 3,
@@ -39,14 +25,7 @@
       "weight": 4.0,
       "amount": 9,
       "price": 40,
-      "description": "Melons are rounded or elongate, of yellow or green rind, sometimes combined depending on the variety.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "Melons are rounded or elongate, of yellow or green rind, sometimes combined depending on the variety."
     },
     {
       "id": 4,
@@ -55,14 +34,7 @@
       "weight": 0.1,
       "amount": 30,
       "price": 25,
-      "description": "The fruit is a fleshy drupe that is generally heart-shaped to nearly globular, about 2 cm (1 inch) in diameter, and varies in colour from yellow through red to nearly black.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "The fruit is a fleshy drupe that is generally heart-shaped to nearly globular, about 2 cm (1 inch) in diameter, and varies in colour from yellow through red to nearly black."
     },
     {
       "id": 5,
@@ -71,14 +43,7 @@
       "weight": 0.2,
       "amount": 7,
       "price": 30,
-      "description": "Avocado fruits have greenish or yellowish flesh with a buttery consistency and a rich, nutty flavour.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "Avocado fruits have greenish or yellowish flesh with a buttery consistency and a rich, nutty flavour."
     },
     {
       "id": 6,
@@ -87,14 +52,7 @@
       "weight": 0.3,
       "amount": 11,
       "price": 25,
-      "description": "Grapes are fleshy, rounded fruits that grow in clusters made up of many fruits of greenish, yellowish or purple skin.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "Grapes are fleshy, rounded fruits that grow in clusters made up of many fruits of greenish, yellowish or purple skin."
     },
     {
       "id": 7,
@@ -103,14 +61,7 @@
       "weight": 0.2,
       "amount": 13,
       "price": 30,
-      "description": "A peach is a very sweet, juicy fruit with an edible peel and a hard pit in the middle.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "A peach is a very sweet, juicy fruit with an edible peel and a hard pit in the middle."
     },
     {
       "id": 8,
@@ -119,47 +70,26 @@
       "weight": 0.13,
       "amount": 17,
       "price": 24,
-      "description": "The lemon is a round, slightly elongated fruit, it has a strong and resistant skin, with an intense bright yellow colour.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "The lemon is a round, slightly elongated fruit, it has a strong and resistant skin, with an intense bright yellow colour."
     },
     {
-      
+
       "id": 9,
       "name": "banana",
       "color": "yellow",
       "weight": 0.3,
       "amount": 13,
       "price": 32,
-      "description": "Banana is an elongated usually tapering tropical fruit with soft pulpy flesh enclosed in a soft usually yellow rind a bunch of bananas slipped on a banana peel.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "Banana is an elongated usually tapering tropical fruit with soft pulpy flesh enclosed in a soft usually yellow rind a bunch of bananas slipped on a banana peel."
     },
     {
       "id": 10,
-      "name": "mango", 
+      "name": "mango",
       "color": "yellow",
       "weight": 0.35,
       "amount": 6,
       "price": 45,
-      "description": "Mango is a tropical usually large ovoid or oblong fruit with a firm yellowish-red skin, hard central stone.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "Mango is a tropical usually large ovoid or oblong fruit with a firm yellowish-red skin, hard central stone."
     },
     {
       "id": 11,
@@ -168,14 +98,7 @@
       "weight": 0.05,
       "amount": 124,
       "price": 12,
-      "description": "Strawberries are soft, sweet, bright red berries.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "Strawberries are soft, sweet, bright red berries."
     },
     {
       "id": 12,
@@ -184,14 +107,81 @@
       "weight": 0.1,
       "amount": 13,
       "price": 24,
-      "description": "The ellipsoidal kiwi fruit is a true berry and has furry brownish green skin.",
-      "comments": [
-        {
-          "commentId": 1,
-          "userName": "customer01",
-          "content": "very delicious fruit!"
-        }
-      ]
+      "description": "The ellipsoidal kiwi fruit is a true berry and has furry brownish green skin."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 8,
+      "productId": 8,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
+    },
+    {
+      "id": 12,
+      "productId": 12,
+      "userName": "customer01",
+      "content": "very delicious fruit!"
     }
   ]
 }
